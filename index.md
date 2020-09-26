@@ -15,16 +15,19 @@
 
 ### CODE OF CONDUCT 
 
-By participating in any Dowell Hackathon event,you agree to abide by the following code of conduct.
-Participants shall not violate any law, rules and regulation or third party rights.
+By participating in any Dowell Hackathon event,you agree to abide by the following code of conduct.Participants shall not violate any law, rules and regulation or third party rights.
+
 By submitting an Entry, you warrant and represent:
 (a) that it is your (or your team’s) original work; 
 (b) that it has not been previously published, sold or submitted in any other competition, promotion, or contest; 
 (c) that it has not won previous awards; and 
 (d) that it does not infringe upon the copyrights, trademarks, rights of privacy, publicity or other intellectual property or other rights of any person or entity; 
 (e) that if any participant or participating team found infringing or violating any laws, rules mentioned herein above, shall be held liable for the compensation and shall also be disqualified.
+
 Participants must  treat all other participants with the utmost respect. All the participants are requested to act kindly, behave professionally, and do not insult or put down other attendees. Remember that harassment and racist, sexist, or exclusionary jokes are not appropriate for this event. If at any point you see a fellow hacker being harassed, please talk to the nearest hackathon organizer.
+
 Participants must treat our sponsors, organizers, and judges with the utmost respect.
+
 Failure to comply with the above-stated Rules and Code of Conduct may result in the participating team's disqualification.
 
 
