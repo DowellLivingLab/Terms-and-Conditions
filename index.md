@@ -1,6 +1,6 @@
-### TERMS AND CONDITIONS OF DOWELL HACKATHON1001
+### Terms And Conditons Of Dowell Hackathon1001
 
-AIM OF THE HACKATHON :- 
+### AIM OF THE HACKATHON :- 
 
 Note taking hologram is a concept of Dowell for a live interaction meeting or similar sessions.
 Hologram to be considered a digital identity like a member participating in a live event.
