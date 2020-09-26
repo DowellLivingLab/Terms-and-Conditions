@@ -42,14 +42,14 @@ By participating in any Dowell Hackathon event,you agree to abide by the followi
 
 ### MISCELLANEOUS 
 
-Dowell may contact any of the participants at any point in time for more information and to discuss potential forms of collaboration.
+1. Dowell may contact any of the participants at any point in time for more information and to discuss potential forms of collaboration.
 
-At any time, at the sole and absolute discretion of Dowell, Dowell shall be entitled to disqualify a Participant and/or Team in the event of failure to meet relevant eligibility criteria or any other violation or suspected violation of these Terms and Conditions.
+2. At any time, at the sole and absolute discretion of Dowell, Dowell shall be entitled to disqualify a Participant and/or Team in the event of failure to meet relevant eligibility criteria or any other violation or suspected violation of these Terms and Conditions.
 
-These Terms and Conditions, together with any Hackathon registration forms, represent the participant’s entire agreement with Dowell with respect to the Hackathon. These terms cannot be modified or changed except with the written agreement of Dowell.
+3. These Terms and Conditions, together with any Hackathon registration forms, represent the participant’s entire agreement with Dowell with respect to the Hackathon. These terms cannot be modified or changed except with the written agreement of Dowell.
 
-All terms and rules are subject to change at Dowell, event coordinators’ or judges’ discretion. Participants will be informed of such changes if deemed necessary.
+4. All terms and rules are subject to change at Dowell, event coordinators’ or judges’ discretion. Participants will be informed of such changes if deemed necessary.
 
-Subject to the rights, these terms and conditions and its interpretation and operation are governed solely by Singapore Law. That those in the Singapore or Foreign  Country, agree to submit to the exclusive jurisdiction of the Singapore tribunals and courts.
+5. Subject to the rights, these terms and conditions and its interpretation and operation are governed solely by Singapore Law. That those in the Singapore or Foreign  Country, agree to submit to the exclusive jurisdiction of the Singapore tribunals and courts.
 
 
