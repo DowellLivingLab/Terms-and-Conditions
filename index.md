@@ -1,18 +1,3 @@
-### Terms And Conditons Of Dowell Hackathon1001
-
-### AIM OF THE HACKATHON :- 
-
-Note taking hologram is a concept of Dowell for a live interaction meeting or similar sessions.
-Hologram to be considered a digital identity like a member participating in a live event.
-Hologram is envisaged to hear the discussion in the meeting where it participates.
-Screenshot and voice recording to be done as and when required or continuously.
-Live notes as a verbatim to be done as and when required or continuously.
-Live notes as a verbatim to be prepared during the participation of the meeting with speaker identification and timestamp.
-To be proposed as an app or avatar and the same will be invited as a live member in the meeting irrespective of meeting platforms. Note taking hologram is a concept of Dowell for a live interaction meeting or similar sessions.
-Hologram to be considered a digital identity like a member participating in a live event.
-Live note as a verbatim to be prepared during the participation with speaker identification and timestamp.
-To be proposed as an app or avatar and the same will be invited as a live member in the meeting irrespective of meeting platform.
- 
 
 ### INTELLECTUAL PROPERTY RIGHTS 
 
