@@ -13,71 +13,22 @@ Hologram to be considered a digital identity like a member participating in a li
 Live note as a verbatim to be prepared during the participation with speaker identification and timestamp.
 To be proposed as an app or avatar and the same will be invited as a live member in the meeting irrespective of meeting platform.
  
-DETAILS OF THE HACKATHON 
 
-Location:  Online (GitHub)
-Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday)
-Contact: DoWell Team Organizer
-Email: ops07@dowellresearch.in
-Link for the interactive discussion session with Dowell Team or for any further Query: https://event.webinarjam.com/channel/dowellhackathon 
+### INTELLECTUAL PROPERTY RIGHTS 
 
+1. Intellectual property rights, guarantees, release of responsibility and assignment of intellectual and moral rights, by participating in the Hackathon and accepting the Terms and Conditions, each Participant hereby:
 
+2. Declares and warrants that the Product and Product Content is an original work and in no way violates, in whole or in part, the Intellectual or Property Rights of others and releases Dowell from any and all responsibility, liability, or request for compensation for damages that should be made by any third party;
 
-PARTICIPATION RULES OF HACKATHON 
+3. Agrees with effect from creation and irrespective of payment to irrevocably transfer and fully assign: a) all Intellectual Property Rights together with all right, title, ownership and/or interest; and b) any and all Moral Rights in Product and Product Content to DoWell. No additional consideration shall be payable to you or any third party by DoWell in respect of such transfer of Intellectual Property Rights.
 
-Applicants with minimum education qualification of 12th/higher secondary can  	participate in hackathon.
-Minimum age limit of participants is 18 years.
-Maximum age limit of participants is 25 years.
-Employees, freelancers or interns from DoWell are not eligible to participate.
-Participants should not be working as an employee or associating exclusively with any company.
-Students, job seekers and non exclusive freelancers are eligible to participate.
-Participants can be from any country.
-The communicative language is English.
-Participants have to sign a non disclosure agreement.
-Team of 2-5 or an individual can participate.
+4. Agrees to reasonably assist Dowell in registering such rights of ownership and Intellectual Property Rights as required by law (e.g. filing of patents and other such registrations as appropriate); and;
 
+5. Agrees to indemnify Dowell (its representatives, employees, assignees) and to hold it harmless against any loss, liability, damage or expense suffered or incurred as a result of breach of this clause.
 
-      4. REGISTRATION RULES TO HACKATHON 
+6. Intellectual Property Rights shall include,without limitation,any ideas,concepts, know-how, data processing techniques, copyrights, patents, designs, inventions, trade secrets, software, source code and documentation, notes, memorandum and any other intellectual property rights attaching to Dowell and Dowell Content created, invented and/or developed by you and/or alongside other Participants pursuant to participation in Dowell Hackathon.
 
-Last Date of Registration is 1st Oct 2020.
-No payment required for registration and participation
-Participants wishing to sign up for the hackathon must complete the online Registration Form. All Participants in submitting their registration accept the event regulations and grant consent for the handling of their personal information by Dowell
-Participants guarantee that the personal information provided upon registration is true and accurate, with no liability being attributed to DoWell in the event of any falsification and/or inaccuracy. Furthermore, inaccurate and/or falsified information can result in disqualification of the participant from the event.
-Applications will be screened as per the criteria.
-Participants need to have proper internet connection along with the needed hardware and software support.
-
-     5. JUDGMENT RULES FOR HACKATHON
-
-This is a contributory hackathon.
-Participant’s contribution will be judged on the basis of their participation and quality of contribution.
-The organizer’s judgement is final.
-Refer the calculation template for more clarity on the judgement method.
-Discontinuing attendees will be considered only upon the stage they have participated.
-Only full attendees will be considered for the final assessment.
-Prizes to be awarded based on performance in each task and over all performance in the project. 
-
-   6. REWARD FOR THE HACKATHON :-
-
-The prize for the winning team will be _______. 
-Participants shall acknowledge and agree that Dowell shall have no liability whatsoever on how the prizes will be split up between team members.
-
-
-
-   7. INTELLECTUAL PROPERTY RIGHTS 
-
-Intellectual property rights, guarantees, release of responsibility and assignment of intellectual and moral rights, by participating in the Hackathon and accepting the Terms and Conditions, each Participant hereby:
-
-Declares and warrants that the Product and Product Content is an original work and in no way violates, in whole or in part, the Intellectual or Property Rights of others and releases Dowell from any and all responsibility, liability, or request for compensation for damages that should be made by any third party;
-
-Agrees with effect from creation and irrespective of payment to irrevocably transfer and fully assign: a) all Intellectual Property Rights together with all right, title, ownership and/or interest; and b) any and all Moral Rights in Product and Product Content to DoWell. No additional consideration shall be payable to you or any third party by DoWell in respect of such transfer of Intellectual Property Rights.
-
-Agrees to reasonably assist Dowell in registering such rights of ownership and Intellectual Property Rights as required by law (e.g. filing of patents and other such registrations as appropriate); and;
-
-Agrees to indemnify Dowell (its representatives, employees, assignees) and to hold it harmless against any loss, liability, damage or expense suffered or incurred as a result of breach of this clause.
-
-Intellectual Property Rights shall include,without limitation,any ideas,concepts, know-how, data processing techniques, copyrights, patents, designs, inventions, trade secrets, software, source code and documentation, notes, memorandum and any other intellectual property rights attaching to Dowell and Dowell Content created, invented and/or developed by you and/or alongside other Participants pursuant to participation in Dowell Hackathon.
-
-      8. CODE OF CONDUCT 
+### CODE OF CONDUCT 
 
 By participating in any Dowell Hackathon event,you agree to abide by the following code of conduct.
 Participants shall not violate any law, rules and regulation or third party rights.
